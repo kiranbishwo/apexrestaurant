@@ -1,4 +1,5 @@
 D:\dot-net\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.deps.json
+D:\dot-net\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.runtimeconfig.json
 D:\dot-net\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.dll
 D:\dot-net\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.pdb
 D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.csproj.AssemblyReference.cache
@@ -9,4 +10,5 @@ D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.
 D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.dll
 D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\refint\ApexRestaurant.Repository.dll
 D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.pdb
+D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.genruntimeconfig.cache
 D:\dot-net\ApexRestaurant.Repository\obj\Debug\net7.0\ref\ApexRestaurant.Repository.dll

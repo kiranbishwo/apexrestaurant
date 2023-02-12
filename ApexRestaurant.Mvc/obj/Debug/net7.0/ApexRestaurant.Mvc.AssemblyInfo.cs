@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-ApexRestaurant.Mvc-43f0a2fc-132a-4009-ae6d-a0c469b01e3a")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-ApexRestaurant.Mvc-81d84b94-bf8d-4b73-85b2-986ed03f7c71")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApexRestaurant.Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
